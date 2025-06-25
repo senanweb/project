@@ -1,0 +1,24 @@
+/*Start Form*/
+.contact-form {
+  max-width: 500px;
+  margin: 20px auto;
+}
+.contact-form input,
+.contact-form textarea {
+  margin-bottom: 10px;
+}
+.contact-form textarea {
+  height: 150px !important;
+}
+.contact-form i {
+  position: relative;
+  float: left;
+  color: #999;
+  height: 0;
+  top: -36px;
+  left: 10px;
+} 
+.contact-form input {
+  padding-left: 30px;
+}
+/*End Form*/

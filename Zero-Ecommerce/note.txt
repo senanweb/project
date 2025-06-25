@@ -1,0 +1,39 @@
+Simple analysis
+===============
+Structure
+---------
+F-admin
+    F-layout
+        f-css
+        f-js
+        f-img
+        f-font
+    F-includes
+        f-templates
+        f-function
+        f-languages
+        f-libraries
+F-layout
+    f-css
+    f-js
+    f-img
+    f-font
+F-includes
+    f-templates
+    f-function
+    f-languages
+    f-libraries
+F-data
+    f-uploads
+    f-logs
+    f-cache
+F-docs
+
+===============
+Pages & Features
+- Settings
+- Dashboard
+- Statistics
+- Log
+- Users
+- Comments

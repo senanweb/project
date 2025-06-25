@@ -1,0 +1,5 @@
+Here we use Css to found the elements in the web
+1- to start use open browser and R.click select inspect
+2- go to tab Elements and select one with ID
+3- Ctrl + f and found like #ID
+4- by css path we can see the elements like (. - # - > - ul.xxx li - nth cheld)

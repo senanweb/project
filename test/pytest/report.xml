@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="1" time="0.080" timestamp="2021-01-07T07:56:34.288048" hostname="DESKTOP-LJOABK9"><testcase classname="test_math" name="test_one_plus_one" time="0.001"><failure message="assert (1 + 1) == 0">def test_one_plus_one():
+&gt;       assert 1 + 1 == 0
+E       assert (1 + 1) == 0
+
+test_math.py:4: AssertionError</failure></testcase></testsuite></testsuites>

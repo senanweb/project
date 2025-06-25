@@ -1,0 +1,24 @@
+body{
+    background: #283c86; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #283c86, #a24591); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3c5bcd, #f6f36cf5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+.box{
+  color: rgb(0, 0, 0);
+  font-family:tahoma;
+  box-sizing: border-box;
+  margin:70px auto 0;
+  width:400px;
+  text-align: center;
+  background: rgba(64, 99, 175, 0.1);
+  padding: 26px;
+  margin-top: 20%;
+
+  box-shadow:
+    inset 0 0 0 10px white,
+    inset 0 0 0 12px black,
+    0 6px 20px black;
+
+}

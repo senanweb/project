@@ -1,0 +1,25 @@
+/* rules */
+body {background-color: rgb(248, 216, 168);}
+.container
+{
+    width: 1170px;
+    height: 500px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+/* rules */
+/* header */
+.header .nav {
+    background-color: bisque;
+    color: #000;
+}
+.header .nav .container ul {
+    list-style: none;
+    padding-left: 0px;
+    overflow: hidden;
+}
+.header .nav ul li {
+    float: left;
+    padding: 10px;
+}
+/* header */

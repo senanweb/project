@@ -1,0 +1,3 @@
+.l-main {
+  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/photo-1.jfif);
+}

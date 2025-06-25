@@ -1,0 +1,6 @@
+    to start use JS for test must used console in the website
+    1- open web and R.click select inspect
+    2- go to tab console
+    3- write which element you wont to show you like ((document.querySelector('ul > li')))
+    4- or write ((document.querySelector('ul.xxx > li'))) use class name or id or name
+    5- or ((document.getElementsByClassName('xxxxx'))) or getElementById for Id

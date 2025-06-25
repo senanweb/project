@@ -1,0 +1,24 @@
+/* roles */
+body{
+    background-color: #ffffff;
+}
+.container {
+    width: 1170px;
+    margin: auto;
+}
+/* roles */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 450px) {
+    .header {background-color: blue;margin-top: 1%;}
+    .header h1 {margin: 0%;}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { ... }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }

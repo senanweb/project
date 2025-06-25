@@ -1,0 +1,17 @@
+/* roles */
+body{
+    background-color: #f0f0f0;
+}
+.container {
+    width: 1170px;
+    margin: auto;
+}
+/* roles */
+/* Header */
+.header .slider {background-color: #f0f0f0;height: 250px;}
+.header .navbar h2 {float: left; overflow: hidden;text-transform: uppercase;}
+.header .navbar h2 span {color: #c5c5c5;}
+.header .navbar {background-color: #f0f0f0; color: goldenrod;}
+.header .navbar ul {list-style: none; padding-left: 0;  float: right;}
+.header .navbar ul li {float: left; padding: 10px;}
+/* Header */

@@ -1,0 +1,14 @@
+1- open any website
+2- R.click select inspect
+3- focus to properties
+4- like select ul in html
+5- after open inspect select tab sources next select page index.css 
+6- to found any element press Ctrl+F now write the name Id or Class for element
+7- now check the elements in the html
+8- another way select any element
+9- in this element R.click and select inspect
+10- now see the highlight the element
+11- R.click select copy - copy selector
+12- Ctrl + F and past now you can see the properties css for element 
+
+

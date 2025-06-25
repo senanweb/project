@@ -1,0 +1,29 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+     box-sizing: border-box;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.parent {background-color: #eef;}
+.container {
+    background-color: red;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+@media (min-width: 768px) {
+    .container{width: 750px; background: blue;}
+}
+
+@media (min-width: 992px) {
+    .container{width: 750px; background: blue;}
+}
+
+@media (min-width: 1200px) {
+    .container{width: 750px; background: blue;}
+}

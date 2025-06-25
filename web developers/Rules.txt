@@ -1,0 +1,24 @@
+1-text = 22px
+2-font size for headline = 32px and 60px
+3-spacing between line = 120% to 150%
+4-characters = 45 to 90
+5-font = sans-serif
+======Colors===============
+1- Red is a great color to use when power, passion, strength and excitement want to be transmitted,
+    brighter tones are more energetic and ricochets are more powerful and elegant.
+2- Orange draws attention without being overpowering as red, It means cheerfulness and creativity,
+    Orange can be associated with friendliness, confidence and courage.
+
+
+===========Css===========
+.darken {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)),
+            url(YOUR IMAGE HERE);
+        }
+===========Icon==========
+• Put whitespace between your elements
+• Put whitespace between your groups of elements
+• Put whitespace between you website's sections
+• But don't exaggerate
+

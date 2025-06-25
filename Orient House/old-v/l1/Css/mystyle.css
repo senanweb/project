@@ -1,0 +1,26 @@
+/* roles */
+body{
+    background-color: #a3a3a3;
+}
+.container {
+    width: 1170px;
+    margin: auto;
+    
+}
+/* roles */
+/* header */
+.header .slider {background-color: aqua; height: 300px;}
+.header .navbar{ background-color: #ffd700; color: #a3a3a3; overflow: hidden;}
+.header .navbar h2 {float: left; margin-left: 10px;}
+.header .navbar h2 span {color: black;}
+.header .navbar .container ul {list-style: none; padding-left: 0; overflow: hidden; float: right;}
+.header .navbar .container ul li {float: left; padding: 10px;}
+/* header */
+/* features */
+.features { overflow: hidden; padding-top: 10px; padding-bottom: 10px;}
+.features .feat {float: left; width: 33.33333%; height: 150px; background: blueviolet;}
+/* features */
+/* about-us */
+/* .about {} */
+.container img {width: 300px; height: 300px;  }
+/* about-us */

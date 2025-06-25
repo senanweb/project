@@ -1,0 +1,12 @@
+1- create same note to write the id or class or js path to remember what you do
+like this
+checkbox toggle
+<input class="toggle" type="checkbox">
+delete
+<button class="destroy"></button>
+toggle-all
+document.querySelector("#toggle-all").click()
+delete
+document.querySelector("body > section > section > ul > li:nth-child(1) > div > button").click()
+clear
+document.querySelector("body > section > footer > button").click()

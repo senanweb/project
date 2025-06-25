@@ -1,0 +1,37 @@
+git diff --staged* after setup git
+write code
+create user in git
+1- git config --global user.name "xxx"
+2- git config --global user.email "xxx"
+3- git config --list
+clear to clean the display
+*- git config user.email -- show the information
+code
+1- pwd (to see the dir )
+2- cd .. (one Step back)
+3- ls  ( show how many folder in dir)
+4- cd (folder)  to select the folder
+5- git init ( this for repository )
+6- git add . (add inform to folder)
+7- git commit -m "xxx" (to make snap shot)
+8- git log (to show inform snap)
+9- git log --author="xxx" (inform how access)
+10- git status (to knew whate is update in folder or file)
+11- git add xxx.text (to add anther file)
+12- git diff --staged (diff btw stage and local)
+13- git rm xxx.xxx (delete the file or folder)
+14- git mv xxx.xxx xx.xx (rename)
+**********
+*****
+**Code GitHub**
+*****
+**********
+1- mkdir (make new folder)
+2- git clone **link web** (download from web)
+3- git status (to knew whate is update in folder or file)
+4- git add html/ (for folder) or xxxx.txt(for docments) *** add for stage
+5- git reset head html/ (back from stage)
+6- git push origin master (upload folder to github)
+7- git pull origin (to pull any format)
+
+

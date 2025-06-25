@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 100vh;
+    width: 100vw;
+    background-image: url('../FProject/img/2.jpg');
+    background-position: bottom;
+    background-size: cover;
+
+
+}
